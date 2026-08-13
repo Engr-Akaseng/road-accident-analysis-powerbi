@@ -29,7 +29,7 @@ The objective is to provide an interactive analytical environment that allows st
 
 ## Dashboard Preview and Interactive Features
 
-![Road Accident Analysis Power BI Dashboard](assets/road-accident-dashboard.png)
+![Road Accident Analysis Power BI Dashboard](assets/dashboard.png)
 
 ### Key Dashboard Components
 
